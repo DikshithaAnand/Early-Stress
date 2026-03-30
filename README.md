@@ -163,7 +163,3 @@ MindScan is designed for **early awareness and educational purposes only**.
 It is NOT a clinical diagnostic tool. For serious mental health concerns, please consult a licensed mental health professional.
 
 ---
-
-## 📧 Support
-
-Built as a final year AI project demonstrating practical ML in healthcare support systems.
