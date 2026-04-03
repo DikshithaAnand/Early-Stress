@@ -103,7 +103,7 @@ curl -X POST http://localhost:8000/predict \
   }'
 ```
 
-### Example Response
+### Example Responses
 
 ```json
 {
