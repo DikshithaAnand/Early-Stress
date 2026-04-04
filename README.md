@@ -1,6 +1,6 @@
 # 🧠 MindScan — AI Early Mental Stress Detection System
 
-A full-stack AI web application that predicts user stress levels based on daily lifestyle inputs and provides personalized recommendations.
+A full-stack AI web application that predicts user stress levels based on daily lifestyle inputs and provides personalized recommendations.This application will detect the stress based on your daily activities.
 
 ---
 
