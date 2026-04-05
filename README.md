@@ -6,17 +6,20 @@ A full-stack AI web application that predicts user stress levels based on daily 
 
 ## 📁 Project Structure
 
-```
+The project is organized into three main components: frontend, backend, and machine learning modules.
+
+```text
 stress-app/
-├── frontend/
-│   └── index.html          ← Complete frontend (single-file app)
 │
-├── backend/
-│   ├── main.py             ← FastAPI backend (all routes)
-│   └── requirements.txt    ← Python dependencies
+├── 🌐 frontend/            # User interface (single-page app)
+│   └── index.html          # Complete frontend
 │
-└── ml_model/
-    └── train_model.py      ← ML model training script
+├── ⚙️ backend/             # FastAPI backend (API & logic)
+│   ├── main.py             # Main server and routes
+│   └── requirements.txt    # Python dependencies
+│
+└── 🤖 ml_model/            # Machine learning module
+    └── train_model.py      # Model training script
 ```
 
 ---
