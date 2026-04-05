@@ -161,7 +161,7 @@ The project follows a **calming, minimal, and mental-health-focused design syste
 
 ## ⚠️ Disclaimer
 
-MindScan is designed for **early awareness and educational purposes only**.  
-It is NOT a clinical diagnostic tool. For serious mental health concerns, please consult a licensed mental health professional.
+MindScan is for **educational and awareness purposes only** and is not a clinical diagnostic tool.  
+Please consult a licensed mental health professional for any serious concerns.
 
 ---
