@@ -141,10 +141,12 @@ curl -X POST http://localhost:8000/predict \
 
 ## 🎨 Design
 
-- **Color Palette:** Sage green, soft teal, warm beige, earth tones
-- **Fonts:** Playfair Display (headings) + DM Sans (body)
-- **Theme:** Calming, minimal, mental-health focused
-- **Layout:** Single-page app with multi-page navigation
+The project follows a **calming, minimal, and mental-health-focused design system** to provide users with a peaceful and supportive experience.
+
+- **Color Palette:** Sage green, soft teal, warm beige, and earth tones
+- **Typography:** Playfair Display for headings and DM Sans for body text
+- **Theme:** Clean, minimal, emotionally supportive, and wellness-oriented
+- **Layout:** Single-page application (SPA) with smooth multi-page navigation
 
 ---
 
