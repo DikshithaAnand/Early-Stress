@@ -3,7 +3,11 @@
 A full-stack AI-based web application designed to predict a user’s stress level based on their daily lifestyle inputs and provide personalized recommendations for stress management.
 
 This application analyzes factors related to a user’s daily activities, habits, and routine to determine their likely stress level. Based on the prediction, the system offers useful insights and suggestions to help users better understand and manage their stress.
+
+The application includes a user-friendly interface that allows users to easily enter their daily information and view results in a simple and understandable format. It also provides clear instructions on how to use the system effectively.
+
 ---
+
 
 ## 📁 Project Structure
 
